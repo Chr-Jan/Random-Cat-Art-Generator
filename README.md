@@ -1,7 +1,5 @@
 # Random Cat Art Project
 
-<a href="github_image\image.png"></a>
-
 <p align="center">
   <img src="github_image\image.png" width="350" title="program example">
 </p>
